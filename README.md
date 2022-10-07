@@ -1,6 +1,6 @@
 # STL containers
 
-Implementation of the C++(set, multiset, map, vector, list, stack) containers.
+Implementation of the C++ containers (set, multiset, map, vector, list, stack).
 
 ### Information
 
